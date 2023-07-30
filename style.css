@@ -57,10 +57,11 @@ nav .header-nav-section a{
     font-size: 30px;} 
 
 .title-astrobiologia{
-    font-family:'Edu SA Beginner'; 
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
     font-style: italic;
     color: #CDECFB;
     font-size: 30px;
+    
 }
 
 img{width: 500px; border-radius: 30px;}
