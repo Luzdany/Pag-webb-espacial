@@ -1,0 +1,54 @@
+body{ 
+    color: #2EB8FF;    
+    font-family: 'EB Garamond', serif;
+    background-size: cover; 
+    background-color: ;
+
+    }
+.title-web{
+        font-family: 'Ysabeau SC', sans-serif; 
+        font-style: italic; color: #CDECFB; 
+        text-align: center;
+        text-shadow: #5d8497;
+        font-size: 50px;    } 
+
+.index{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;} 
+
+.title-astrobiologia{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-style: italic;
+    color: #CDECFB;
+    font-size: 30px;
+}
+
+img{width: 500px; border-radius: 30px;}
+
+.title-universo{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-style: italic;
+    color: #CDECFB;
+    font-size: 30px;
+}
+.title-estrellas{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-style: italic;
+    color: #CDECFB;
+    font-size: 30px;
+}
+.index{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #CDECFB;
+}
+.title-top-estrellas{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    color: #CDECFB;
+}
+.title-misiones{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    color: #CDECFB;
+}
